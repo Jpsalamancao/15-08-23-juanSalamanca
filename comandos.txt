@@ -1,0 +1,5 @@
+1 touch
+2 mkdir
+3 git checkout 
+4 git commit
+5 git add .
