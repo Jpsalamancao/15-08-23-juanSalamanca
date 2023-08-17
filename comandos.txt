@@ -3,3 +3,4 @@
 3 git checkout 
 4 git commit
 5 git add .
+6 mv
